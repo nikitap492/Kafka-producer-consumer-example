@@ -1,4 +1,4 @@
-##Kafka demo application
+## Kafka demo application
 This demo application demonstrate how to use kafka clients to push and receive message through kafka
 
 For using this example you should create topic in kafka "e-comm-transactions"
